@@ -1,0 +1,7 @@
+C:\Users\ink42\source\repos\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe.config
+C:\Users\ink42\source\repos\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe
+C:\Users\ink42\source\repos\EmailChecker\EmailChecker\bin\Debug\EmailChecker.pdb
+C:\Users\ink42\source\repos\EmailChecker\EmailChecker\obj\Debug\EmailChecker.csprojAssemblyReference.cache
+C:\Users\ink42\source\repos\EmailChecker\EmailChecker\obj\Debug\EmailChecker.csproj.CoreCompileInputs.cache
+C:\Users\ink42\source\repos\EmailChecker\EmailChecker\obj\Debug\EmailChecker.exe
+C:\Users\ink42\source\repos\EmailChecker\EmailChecker\obj\Debug\EmailChecker.pdb
