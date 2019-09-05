@@ -88,7 +88,7 @@ namespace SpellChecker
                 }        
             }
             Console.WriteLine("The number of words generated using Replace: {0}.", realLength);
-            Console.WriteLine("Length after remove: {0}", totalIndex);
+            Console.WriteLine("Length after replace: {0}", totalIndex);
         }
     }
 }
