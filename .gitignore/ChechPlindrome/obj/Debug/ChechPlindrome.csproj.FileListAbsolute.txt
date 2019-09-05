@@ -1,0 +1,2 @@
+C:\Users\ink42\source\repos\ChechPlindrome\ChechPlindrome\obj\Debug\ChechPlindrome.csprojAssemblyReference.cache
+C:\Users\ink42\source\repos\ChechPlindrome\ChechPlindrome\obj\Debug\ChechPlindrome.csproj.CoreCompileInputs.cache
