@@ -1,0 +1,7 @@
+C:\Users\ink42\source\repos\SpellChecker\SpellChecker\bin\Debug\SpellChecker.exe.config
+C:\Users\ink42\source\repos\SpellChecker\SpellChecker\bin\Debug\SpellChecker.exe
+C:\Users\ink42\source\repos\SpellChecker\SpellChecker\bin\Debug\SpellChecker.pdb
+C:\Users\ink42\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csprojAssemblyReference.cache
+C:\Users\ink42\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csproj.CoreCompileInputs.cache
+C:\Users\ink42\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.exe
+C:\Users\ink42\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.pdb
