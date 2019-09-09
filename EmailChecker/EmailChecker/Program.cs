@@ -11,13 +11,8 @@ namespace EmailChecker
         {
             string input = "Girmay emailn inkght@yahoo.com.,Tollosa emailn: wertyu@gmail.com." +
                      " Getch emailn: fghty@ethiotel.net.";
-            string pattern = @"[a-zA-z0-9_.+-]+@[a-zA-z0-9-]"+
-                "+\\.[a-zA-z0-9-]+.?[a-zA-z0-9-]";
-            string replacement = "Email";
-            string result = Regex.Replace(input, pattern, replacement);
-
-            Console.WriteLine("Original String: {0}", input);
-            Console.WriteLine("Replacement String: {0}", result);
+            var pharagraph = new InputString(input);
+            pharagraph.EmailChecker();
         }
     }
 }
