@@ -81,20 +81,17 @@ public class GenerateWords
             for (int j = 0; j < letters.Length; j++)
             {
                 if (inputStr[i] != letters[j])
-                {
-                    //index = (newLength - 1) + (i + 1) * (realLength + 1 - i);
-
+                {                  
                     newGeneratedWords[totalIndex] = tempStr.Insert(i, letters[j].ToString());
                     wordsByReplace[realLength] = tempStr.Insert(i, letters[j].ToString());
                     checker = realLength;
                     totalIndex++;
                     realLength++;
-
                 }
             }
         }
         Console.WriteLine("The number of words generated using Replace: {0}.", realLength);
         Console.WriteLine("Length after replace: {0}", totalIndex);
-    }*/
+    }
 }
 
