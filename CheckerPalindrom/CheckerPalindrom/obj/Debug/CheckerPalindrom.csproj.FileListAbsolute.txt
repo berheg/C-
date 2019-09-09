@@ -1,0 +1,7 @@
+C:\Users\ink42\source\repos\CheckerPalindrom\CheckerPalindrom\bin\Debug\CheckerPalindrom.exe.config
+C:\Users\ink42\source\repos\CheckerPalindrom\CheckerPalindrom\bin\Debug\CheckerPalindrom.exe
+C:\Users\ink42\source\repos\CheckerPalindrom\CheckerPalindrom\bin\Debug\CheckerPalindrom.pdb
+C:\Users\ink42\source\repos\CheckerPalindrom\CheckerPalindrom\obj\Debug\CheckerPalindrom.csproj.CoreCompileInputs.cache
+C:\Users\ink42\source\repos\CheckerPalindrom\CheckerPalindrom\obj\Debug\CheckerPalindrom.exe
+C:\Users\ink42\source\repos\CheckerPalindrom\CheckerPalindrom\obj\Debug\CheckerPalindrom.pdb
+C:\Users\ink42\source\repos\CheckerPalindrom\CheckerPalindrom\obj\Debug\CheckerPalindrom.csprojAssemblyReference.cache
