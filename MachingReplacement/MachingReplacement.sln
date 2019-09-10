@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachingReplacement", "MachingReplacement\MachingReplacement.csproj", "{CD350580-02F1-4B60-AC74-4F0C67F9543F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD350580-02F1-4B60-AC74-4F0C67F9543F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD350580-02F1-4B60-AC74-4F0C67F9543F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD350580-02F1-4B60-AC74-4F0C67F9543F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD350580-02F1-4B60-AC74-4F0C67F9543F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B5520A-91E9-47C2-9DD5-C12C1EEA2084}
+	EndGlobalSection
+EndGlobal
