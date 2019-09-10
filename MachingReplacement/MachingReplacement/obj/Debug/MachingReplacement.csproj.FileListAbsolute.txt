@@ -1,0 +1,7 @@
+C:\Users\ink42\source\repos\MachingReplacement\MachingReplacement\bin\Debug\MachingReplacement.exe.config
+C:\Users\ink42\source\repos\MachingReplacement\MachingReplacement\bin\Debug\MachingReplacement.exe
+C:\Users\ink42\source\repos\MachingReplacement\MachingReplacement\bin\Debug\MachingReplacement.pdb
+C:\Users\ink42\source\repos\MachingReplacement\MachingReplacement\obj\Debug\MachingReplacement.csprojAssemblyReference.cache
+C:\Users\ink42\source\repos\MachingReplacement\MachingReplacement\obj\Debug\MachingReplacement.csproj.CoreCompileInputs.cache
+C:\Users\ink42\source\repos\MachingReplacement\MachingReplacement\obj\Debug\MachingReplacement.exe
+C:\Users\ink42\source\repos\MachingReplacement\MachingReplacement\obj\Debug\MachingReplacement.pdb
